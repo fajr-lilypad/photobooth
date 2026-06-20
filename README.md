@@ -26,7 +26,7 @@ I came up with this project because I thought it would be a good idea to move aw
 
 Case Notes:
 - (right to left) case assembly, case inside view, printer holder
-- Case will be printed in several pieces connected with finger joints, in order for easy printing, assembly, and troubleshooting.
+- Case will be printed in several pieces connected with finger joints, in order for easy printing, assembly, charging, and troubleshooting.
 - Printer holder will be screwed in with 3/32 screws via holes on bottom piece
 - Button holes are socketed from inside for snap fit with Cherry MX keys
 
@@ -61,4 +61,5 @@ Case Notes:
 Assembly Notes:
 - Camera Module and Screen are secured using standoffs
 - Printer is secured with custom holder screwed onto bottom plate
+- Ample space provided for wiring management
 
