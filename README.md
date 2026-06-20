@@ -81,6 +81,13 @@ Pin B: Physical Pin 39 (GND)
 # Zine !!
 <img width="427" height="599" alt="image" src="https://github.com/user-attachments/assets/c0579cab-3320-47c1-bf89-3ae982383746" />
 
+# Build Guide
+1. Assemble the Case: Print out each wall and put together through finger joints, the friction fit will keep them together.
+2. Mount the printer holder with 3/32 screws on the bottom plate and slide the printer in with a fresh roll. Feed a bit of paper through the slot in the front wall.
+3. Wire the buttons according to the diagram, and place them in the socketed holes.
+4. Mount the camera module and screen (with raspberry pi attatched) to the inside of the front wall with 3/32 screws.
+5. Plug in hdmi cables for screen and printer, upload code and test shutter and shutdown button.
+6. Enjoy! To use, press heartshaped button and wait for an instant pic!
 
 ## Acknowledgements:
 - Thank you to the fallout team and hackclub for making this project possible!
