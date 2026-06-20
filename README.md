@@ -64,3 +64,5 @@ Assembly Notes:
 - Ample space provided for wiring management
 - Yellow buttons serve only as fidget clickers, heart shaped button is shutter
 
+# Wiring Diagram
+
