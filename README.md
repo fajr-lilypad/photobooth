@@ -58,4 +58,7 @@ Case Notes:
   </tr>
 </table>
 
+Assembly Notes:
+- Camera Module and Screen are secured using standoffs
+- Printer is secured with custom holder screwed onto bottom plate
 
