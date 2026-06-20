@@ -1,26 +1,5 @@
 #!/usr/bin/env python3
-"""
 
-Thank you digiiash for your helpful advice and for letting me base my code of yours <3
-
-Flow:
-  1. Idle  -> shows images/attract.jpg
-  2. Shutter button pressed -> live camera preview fills the screen with a
-     faded 3-2-1 countdown drawn over the feed
-  3. Photo is snapped and spooled to the printer; images/printing.jpg is shown
-     while the job processes
-  4. Loops back to the attract screen
-
-  attract.jpg   - idle / rest screen
-  printing.jpg  - shown while a photo prints
-
-Countdown numbers are rendered by pygame directly over the live camera feed.
-Tweak the style constants in the "Countdown overlay style" section to customize
-the look.
-
-Author : digiiash
-Liscense: MIT
-"""
 
 import os
 import time
