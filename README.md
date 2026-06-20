@@ -65,4 +65,16 @@ Assembly Notes:
 - Yellow button on the right only serves only as fidget clicker, heart shaped button is shutter, leftmost button is shutdown button.
 
 # Wiring Diagram
+<img width="568" height="365" alt="image" src="https://github.com/user-attachments/assets/306d286a-c0a5-467e-9dbd-8247a779d300" />
+
+Wiring Notes 
+- Screen, Camera, and printer are all connected using hdmi cables
+- Diagram shows shutdown button and shutter button
+- Shutter Button (Cherry MX Switch):
+Pin A: Physical Pin 36 (GPIO 16)
+Pin B: Physical Pin 34 (GND)
+-Shutdown Button (Optional Switch):
+Pin A: Physical Pin 37 (GPIO 26)
+Pin B: Physical Pin 39 (GND)
+
 
