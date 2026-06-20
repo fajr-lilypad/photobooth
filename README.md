@@ -24,3 +24,8 @@ I came up with this project because I thought it would be a good idea to move aw
   </tr>
 </table>
 
+Case Notes:
+- (right to left) case assembly, case inside view, printer holder
+- Case will be printed in several pieces connected with finger joints, in order for easy printing, assembly, and troubleshooting.
+- Printer holder will be screwed in with 3/32 screws via holes on bottom piece
+- Button holes are socketed from inside for snap fit with Cherry MX keys
