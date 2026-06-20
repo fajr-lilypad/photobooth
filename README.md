@@ -68,6 +68,7 @@ Assembly Notes:
 <img width="568" height="365" alt="image" src="https://github.com/user-attachments/assets/306d286a-c0a5-467e-9dbd-8247a779d300" />
 
 Wiring Notes 
+
 - Screen, Camera, and printer are all connected using hdmi cables
 - Diagram shows shutdown button and shutter button
 - Shutter Button (Cherry MX Switch):
