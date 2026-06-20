@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
-Thermal Printer Photobooth
-==========================
-Made by digiiash
 
-A Raspberry Pi photobooth that prints instant snapshots to a thermal printer.
+Thank you digiiash for your helpful advice and for letting me base my code of yours <3
 
 Flow:
   1. Idle  -> shows images/attract.jpg
@@ -14,7 +11,6 @@ Flow:
      while the job processes
   4. Loops back to the attract screen
 
-Images (in the images/ folder next to this script):
   attract.jpg   - idle / rest screen
   printing.jpg  - shown while a photo prints
 
@@ -23,7 +19,7 @@ Tweak the style constants in the "Countdown overlay style" section to customize
 the look.
 
 Author : digiiash
-License : MIT
+Liscense: MIT
 """
 
 import os
