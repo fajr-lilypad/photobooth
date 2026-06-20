@@ -78,4 +78,11 @@ Pin B: Physical Pin 34 (GND)
 Pin A: Physical Pin 37 (GPIO 26)
 Pin B: Physical Pin 39 (GND)
 
+# Zine !!
+<img width="359" height="517" alt="image" src="https://github.com/user-attachments/assets/22ab1930-e0d9-4e53-a666-ca2777896ebb" />
+
+## Acknowledgements:
+- Thank you to the fallout team and hackclub for making this project possible!
+- Thank you to digiiash for helping with code!
+
 
