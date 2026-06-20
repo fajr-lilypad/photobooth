@@ -32,3 +32,30 @@ Case Notes:
 
 ## Full Assembly
 
+<table>
+   <tr>
+      <td>
+   <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/911c82c7-ecf8-423c-9471-4fad5190c4a3" />
+</td>
+      <td>
+   <img width="440" height="467" alt="image" src="https://github.com/user-attachments/assets/65d570f4-c5f4-4241-ab03-f3cf015b9e92" />
+      </td>
+   </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>
+    <img src="https://github.com/user-attachments/assets/c4b0c352-6a4f-4c3a-8f44-03dc07fce032" width="300" height="300">
+    </td>
+    <td>
+    <img src="https://github.com/user-attachments/assets/60ea2944-5caf-4ff7-953e-0cccb3af8535" width="300" height="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/eadf4e3f-f29a-490b-a3f9-8014323255b9" width="300" height="300">
+    </td>
+  </tr>
+</table>
+
+
